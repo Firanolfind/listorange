@@ -1,6 +1,6 @@
 {
   "name": "listorange",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List array to Range",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "list",
     "array",
     "range",
-    "string"
+    "string",
+    "non-blocking",
+    "efficient"
   ],
   "author": "Firanolfind",
   "license": "MIT",
@@ -24,5 +26,8 @@
   "homepage": "https://github.com/Firanolfind/listorange#readme",
   "dependencies": {
     "qqsort": "^1.0.7"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
   }
 }
