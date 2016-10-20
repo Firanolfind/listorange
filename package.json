@@ -1,0 +1,28 @@
+{
+  "name": "listorange",
+  "version": "0.1.0",
+  "description": "List array to Range",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firanolfind/listorange.git"
+  },
+  "keywords": [
+    "list",
+    "array",
+    "range",
+    "string"
+  ],
+  "author": "Firanolfind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Firanolfind/listorange/issues"
+  },
+  "homepage": "https://github.com/Firanolfind/listorange#readme",
+  "dependencies": {
+    "qqsort": "^1.0.7"
+  }
+}

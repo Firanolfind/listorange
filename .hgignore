@@ -5,3 +5,4 @@ sublime-gulp.log
 node_modules/*
 npm-debug
 *.zip
+.git/*
