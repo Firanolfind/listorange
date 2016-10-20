@@ -1,0 +1,6 @@
+*.zip
+node_modules
+bower_components
+sftp-config.json
+sublime-gulp.log
+npm-debug
