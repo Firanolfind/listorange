@@ -1,5 +1,6 @@
 /**
  * list to range
+ * version 0.1.2
  * non-blocking, efficient
  *
  * Copyright (c) 2016 Firanolfind
